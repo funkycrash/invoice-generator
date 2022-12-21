@@ -34,12 +34,12 @@ export const initialInvoice: Invoice = {
     {
       description: 'Frontend Hours',
       quantity: '48',
-      rate: '50',
+      rate: '57.5',
     },
     {
       description: 'Backend Hours',
       quantity: '40',
-      rate: '50',
+      rate: '57.5',
     },
   ],
   subTotalLabel: 'Sub Total',
